@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff069cc0-346d-423b-bda3-26eea2910326" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-568h@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-667h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-736h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-736h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/crown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/ember.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/ionic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/adolfo_builes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/adrian_mugnolo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/agustin_haller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/alex_sexton.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/angelina_fabbro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/chris_miller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/ciro_nunes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/damian_schenkelman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/dayana_jabif.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/eric_schoffstall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/guillermo_paz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/james_halliday.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/jaydson_gomes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/jean_charles_sisk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/jeremy_morrell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/julian_duque.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/leonardo_garcia_crespo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/lourdes_montano.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/martin_gontovnikas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/martin_naumann.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/masaba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/mathias_bynens.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/mathias_rodriguez.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/matias_volpe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/matthew_podwysocki.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/maximiliano_fierro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/michael_cetrulo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/nicolas_bevacqua.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/pablo_chiappetti.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/rafael_specht.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/sam_saccone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/santiago_ferreira.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/sergio_gianazza.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/speakers/valeri_karpov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/img/ionic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/images/beachflag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lawapp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/after_prepare/010_add_platform_class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic.config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/agenda.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/event.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/ionic.app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/jsconfuy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/main-menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/speakers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/venue.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/agenda.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/ionic.app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/ionic.app.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/filters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/laws.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lawyers.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-animate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/angular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-sanitize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/api/angular-ui-router.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/release/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/stateDirectives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/stateFilters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/templateFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/urlRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/viewDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-ui-router/src/viewScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/css/ion-md-input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/css/ion-md-input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/hooks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/hooks/after_prepare/010_add_platform_class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/ionic.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/scss/ionic.app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/css/ion-md-input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/css/ion-md-input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/js/ion-md-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/js/ion-md-input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/css/ionic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/css/ionic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular-ui/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular-ui/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/ionic-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/ionic-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/ionic.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/ionic.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/ionic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/js/ionic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_action-sheet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_backdrop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_button-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_checkbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_items.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_loading.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_platform.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_popup.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_radio.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_range.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_slide-box.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_toggle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_util.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/ionic.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/scss/ionicons/ionicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/demo/www/lib/ionic/version.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/ion-md-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/ion-md-input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/js/ion-md-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/js/ion-md-input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ion-md-input/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/.cz.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/dist/ionic.material.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/dist/ionic.material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/dist/ionic.material.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/dist/ionic.material.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/dist/ionic.material.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/js/ionic-material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/js/lib/_ink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/js/lib/_motion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/directives/md-label.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/bar-header-expanded.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/button-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/button-fab.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/button-floating.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/hero.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/item.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/loading.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/login.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/mask.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/elements/motion-elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/helpers/colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/helpers/sizes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/helpers/utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/motion/blinds.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/motion/pan-in-left.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/motion/ripple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/motion/slide-fade-in.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/motion/slide-in-right.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/motion/slide-up.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/overrides/ink.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/src/scss/overrides/ionic.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic-material/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/css/ionic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/js/ionic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_action-sheet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_backdrop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_button.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_checkbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_items.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_loaders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_loading.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_platform.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popover.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_popup.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_radio.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_range.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_refresher.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_slide-box.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_spinner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_split-pane.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_toggle.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_util.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionic.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-font.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ionic/scss/ionicons/ionicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/.buildignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/bicycling-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/cloud-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/custom-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/directions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/drawing-manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/dynamic-maps-engine-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/fusion-tables-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/heatmap-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/info-window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/kml-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/map-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/map-lazy-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/map-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/map_controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/maps-engine-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/marker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/overlay-map-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/places-auto-complete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/shape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/street-view-panorama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/traffic-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/transit-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/directives/weather-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/services/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/services/attr2_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/services/geo_coder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/services/navigator_geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/app/scripts/services/street_view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/Attr2Options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/GeoCoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/MapController.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/NavigatorGeolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/StreetView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/bicycling-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/cloud-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/custom-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_bicycling-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_cloud-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_custom-control.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_directions.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_drawing-manager.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_dynamic-maps-engine-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_fusion-tables-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_heatmap-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_info-window.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_kml-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_map-data.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_map-lazy-load.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_map-type.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_map.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_map_controller.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_maps-engine-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_marker.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_overlay-map-type.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_places-auto-complete.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_shape.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_street-view-panorama.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_traffic-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_transit-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/directives_weather-layer.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/drawing-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/dynamic-maps-engine-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/fusion-tables-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/heatmap-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/info-window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/kml-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/lazy-load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/map-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/map-type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/maps-engine-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/overlay-map-type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/places-auto-complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/scripts/linenumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/scripts/prettify/Apache-License-2.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/scripts/prettify/lang-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/scripts/prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/services_attr2_options.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/services_geo_coder.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/services_navigator_geolocation.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/services_street_view.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/shape.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/streetview-panorama.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/styles/jsdoc-default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/styles/prettify-jsdoc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/styles/prettify-tomorrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/traffic-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/transit-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/docs/weather-layer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/scripts/ng-map.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/scripts/ng-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/build/scripts/ng-map.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/scripts/linenumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/scripts/prettify/Apache-License-2.0.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/scripts/prettify/lang-css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/scripts/prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/styles/jsdoc-default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/styles/prettify-jsdoc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/static/styles/prettify-tomorrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/container.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/details.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/example.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/examples.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/exceptions.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/layout.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/mainpage.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/members.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/method.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/params.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/properties.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/returns.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/source.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/tutorial.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/jsdoc/template/tmpl/type.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/config/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/road-trip.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/directives/map_controller_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/directives/map_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/directives/marker_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/directives/shape_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/directives/street_view_panorama_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/e2e/testapp_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/lib/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/lib/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/lib/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/services/attr2_options_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/services/geo_coder_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/services/navigator_geolocation_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/spec/services/street_view_spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/USGSOverlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/aerial-rotate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/aerial-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/circle-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/control-custom-state.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/control-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/control-disableUI.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/control-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/control-positioning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/control-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/directions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/drawing-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/event-arguments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/event-domlistener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/event-properties.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/event-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/events_controller_as.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/groundoverlay-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/heatmap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/hello_map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/icon-complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/icon-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/infowindow-simple-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/infowindow-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/infowindow_compile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/infowindow_geolookup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/infowindow_ng_click.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-bicycling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-data-dynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-data-quakes-advanced.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-data-quakes-default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-data-quakes-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-data-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-data-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-dynamicmapsengine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-fusiontables-heatmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-fusiontables-query.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-fusiontables-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-fusiontables-styling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-georss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-heatmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-kml-features.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-kml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-mapsengine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-style-event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-traffic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-transit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/layer-weather.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map-coordinates.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map-geolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map-lazy-load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map-projection-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_app.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_fit_bounds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_geo_fallback_center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_lazy_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_with_current_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_with_dynamic_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/map_with_dynamic_center.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/mapsenginelayer-noauth-layerid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/mapsenginelayer-noauth-layerkey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/maptype-base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/maptype-image-overlay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/maptype-image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/maptype-overlay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/maptype-styled-complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/maptype-styled-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-animations-iteration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-clusterer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-symbol-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker-symbol-predefined.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_dynamic_raw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_on_street_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_current_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_dynamic_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_dynamic_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_info_window.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_ng_repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_ng_repeat_dynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/marker_with_parent_controller.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/multiple_maps_on_a_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-hideshow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-symbol-animate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-symbol-arrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-symbol-custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/overlay-symbol-dashed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/places-auto-complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polygon-arrays.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polygon-autoclose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polygon-draggable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polygon-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polyline-complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polyline-remove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/polyline-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/rectangle-event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/rectangle-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/rectangle-zoom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/get-starbucks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/markerclusterer_packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/markers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/plunkr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/quakes.geo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/scripts/starbucks.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/shape.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/shape_circle_with_current_position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/shape_circle_with_dynamic_address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/shape_with_ng_repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/street-view-panorama.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/street-view-panorama_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/street-view_road_trip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/taxi-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/ui-bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/ui-router.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngmap/testapp/user-editable-shapes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/dist/waves.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/dist/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/dist/waves.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/dist/waves.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/dist/waves.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/static/prims.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/static/prims.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/static/snarl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/static/snarl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/docs/static/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/situs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/src/js/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/src/less/waves.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/src/sass/waves.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/src/scss/waves.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/waves/src/stylus/waves.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/speakers.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/agenda.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/law.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/laws.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/lawyers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/partials/agenda-event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/speakers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/venue.html" />
+    </list>
+    <ignored path="lawapp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lawapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="speakers.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/speakers.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="venue.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/venue.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="venue.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/venue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="laws.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/laws.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="laws.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/laws.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="121" column="36" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/event.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agenda.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/agenda.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/js/services.js" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
+        <option value="$PROJECT_DIR$/www/js/controllers.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lawapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager" selected="PhoneGap/Cordova.ionic">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" />
+      <option name="myWorkDir" />
+      <option name="myCommand" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" />
+      <option name="myExtraArgs" />
+      <option name="hasTarget" value="false" />
+      <option name="target" />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="ionic" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" value="C:\Users\admin\AppData\Roaming\npm\ionic.cmd" />
+      <option name="myWorkDir" value="$PROJECT_DIR$" />
+      <option name="myCommand" value="serve" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="browser" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PhoneGap/Cordova.ionic" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff069cc0-346d-423b-bda3-26eea2910326" name="Default" comment="" />
+      <created>1476909563867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476909563867</updated>
+      <workItem from="1476909566987" duration="655000" />
+      <workItem from="1476947750880" duration="6684000" />
+      <workItem from="1477087239028" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7925000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scss/speakers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/venue.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/venue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/laws.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/laws.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/agenda.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/speakers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/venue.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/venue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/laws.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/laws.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/speakers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/venue.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/venue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/laws.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/agenda.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/laws.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="121" column="36" selection-start-line="121" selection-start-column="36" selection-end-line="121" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+[ { "name":"Business law",
+   "id" :1,
+    "desc":"law of contract and agency"
+  
+  },
+{ "name":"criminal law",
+   "id" :2,
+    "desc":"concerning criminal and related cases"
+  
+  },
+{ "name":"Intellectual right",
+   "id" :3,
+    "desc":"law concerning property ownership"
+  
+  },
+{ "name":"law of tort",
+   "id" :4,
+    "desc":"concerns negligency and related cases"
+  
+  },
+{ "name":"Human Rights",
+   "id" :5,
+    "desc":"Addresses descrimination and other forms of prejudice"
+  
+  }
+]

@@ -1,0 +1,56 @@
+ [
+  {
+    "name":"Masaba Gerald",
+    "bio":"Jeremy is a frontend engineer at Facebook working on one of the world's \nlargest React applications. When not at work he's most likely to be found \nin the mountains.\n",
+    "img":"img/speakers/masaba.jpg",
+    "company":"Facebook",
+    "twitter":"JeremyMorrell",
+    "tags":["React", "Facebook"],
+    "event_id":"23"
+  },
+  {
+    "name":"Julián Duque",
+    "bio":"Developer and Educator by Passion, Engineer at NodeSource, io.js contributor and evangelist, Organizer of MedellinJS and JSConf Colombia.\n",
+    "img":"img/speakers/julian_duque.jpg",
+    "company":"NodeSource",
+    "twitter":"julian_duque",
+    "tags":["NodeJS", "io.js"],
+    "event_id":"48"
+  },
+  {
+    "name":"Alex Sexton",
+    "bio":"Alex Sexton is a Product Engineer at Stripe. He lives in Austin, Texas USA, and is an avid open source user and contributor. He is on the jQuery Board of Directors, the Dojo Foundation Board, and the Modernizr team. He is deeply interested in open standards, accessibility, performance, and internationalization.\n",
+    "img":"img/speakers/alex_sexton.jpg",
+    "company":"Stripe",
+    "twitter":"SlexAxton",
+    "tags":["Stripe", "jQuery", "Dojo", "Modernizr"],
+    "event_id":"3"
+  },
+  {
+    "name":"James Halliday",
+    "bio":"I enjoy writing tiny modules that do one thing well.\nI like unix, leveldb, streams, and mad science experiments.\n",
+    "img":"img/speakers/james_halliday.jpg",
+    "company":"Browserify",
+    "twitter":"substack",
+    "tags":["Browserify"],
+    "event_id":"28"
+  },
+  {
+    "name":"Mathias Bynens",
+    "bio":"Mathias is a Belgian web standards freak. He likes HTML, CSS, JavaScript, Unicode, performance, and security. At Opera Software he’s a member of the Developer Relations team.\n",
+    "img":"img/speakers/mathias_bynens.jpg",
+    "company":"Opera",
+    "twitter":"mathias",
+    "tags":["Opera"],
+    "event_id":"18"
+  },
+  {
+    "name":"Eric Schoffstall",
+    "bio":"Eric Schoffstall (aka Contra) is a co-founder at Fractal currently living in San Francisco. When he isn't working on one of his 210 open source projects, he is usually skateboarding or climbing mountains around the world. Gulp creator.\n",
+    "img":"img/speakers/eric_schoffstall.jpg",
+    "company":"Fractal",
+    "twitter":"contrahacks",
+    "tags":["Gulp", "Fractal"],
+    "event_id":"17"
+  }
+]

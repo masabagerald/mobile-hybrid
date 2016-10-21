@@ -1,0 +1,19 @@
+<ion-view view-title ="laws" >
+    <ion-nav-title>
+        <span>browse laws</span>
+    </ion-nav-title>
+    <ion-content>
+        <ion-list>
+            <ion-item class="item-remove-animate " item-icon-right ng-repeat="law in laws" ui-sref="app.law({lawId:law.id})">
+                
+                <h2>{{law.name}}</h2>
+                {{law.desc}}
+
+                <i class="icon ion-chevron-right icon-accesory"> </i>
+
+
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
+            
